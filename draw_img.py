@@ -63,5 +63,5 @@ second_order[
 ] = line_color
 
 # Show canvas
-plt.imshow(second_order, cmap="gray")
+plt.imshow(second_order)
 plt.show()
